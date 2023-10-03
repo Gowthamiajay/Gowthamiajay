@@ -1,0 +1,3 @@
+create schema sterdb;
+create table sterdb.employee (id integer,name varchar,job varhar);
+commit;
